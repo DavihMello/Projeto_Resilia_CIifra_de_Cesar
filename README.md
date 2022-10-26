@@ -9,7 +9,10 @@ O projeto foi uma proposta do curso em desenvolvimento web da Resília Educaçã
 
 ## 📋 Tecnologias utilizadas
 
-🛠️No projeto, utilizei HTML5 de forma semântica, o CSS3 e o Javascript.
+🛠️
+*HTML
+*CSS3
+*Javascript.
 
 ## 📦 Desenvolvimento
 
