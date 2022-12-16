@@ -1,4 +1,4 @@
-# Projeto Resília - Passinho do Romano
+# Projeto Resília
 
 O projeto foi desenvolvido para que o usuário posso introduzir uma mensagem e que seja criptografado ou descriptografados para a Base64 ou Cifra de César.
 
